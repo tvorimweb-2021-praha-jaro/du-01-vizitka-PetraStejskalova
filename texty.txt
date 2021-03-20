@@ -1,0 +1,19 @@
+Petra Stejskalová
+
+O mnì
+Jmenuji se Petra, ale budu ráda, kdy mi budete øíkat Péo. Zkusím se Vám teï ve zkratce pøedstavit. Jsem architektka, ráda cestuji a poznávám nová místa, mám ráda jógu, ráda vaøím a peèu, no a hlavnì jsem teï máma na plnı úvazek. Bìhem studia na VŠ a i po nìm jsem hodnì cestovala. Zkusila jsem si ivot v Kanadì, na stái v Belgii a nakonec i na Novém Zélandu. Hodnì fotek z cest mám na svém profilu na Facebooku, tak kdy budete chtít, mùete se podívat. Po návratu z poslední velké cesty jsem pár let pracovala v Praze v architektonickém studiu.
+
+Co plánuji dál
+Postupnì zjišuji, e práce architekta pro mì není to pravé. Ráda bych se po mateøské vydala na dráhu Front-end Developera. Já vím, cesta je ještì dlouhá, ale vìøím, e to dám.
+
+Kontakt
+Email: pt.stejskalova@gmail.com
+
+© 2021, Petra Stejskalová
+
+/* CSS HEX */
+--pale-spring-bud: #ccd5aeff;
+--light-goldenrod-yellow: #e9edc9ff;
+--cornsilk: #fefae0ff;
+--papaya-whip: #faedcdff;
+--fawn: #d4a373ff;

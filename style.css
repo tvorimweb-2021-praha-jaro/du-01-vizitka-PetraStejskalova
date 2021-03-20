@@ -1,0 +1,76 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+
+body {
+    margin: 0; 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    line-height: 1.6;
+    color: #0c0d07ff;
+}
+
+h1, h2 {
+    font-family: 'Lora', serif;
+}
+
+h1 {
+    color: #fef9d8ff;
+    font-size: 50px;
+}
+
+h2 {
+    color: #3e2914ff;
+}
+
+section {
+    overflow: auto;
+}
+
+p {
+    text-align: left;
+}
+
+a {
+    font-style: italic;
+    color: #3e2914ff;
+}
+
+.foto-omne {
+    width: 300px;
+    border-radius: 50%;
+    float: right;
+    margin: 0 0 30px 50px;
+}
+
+.omne {
+    background-color: #e9edc9ff;
+    padding: 30px 10% 30px;
+    border-bottom: 2px #bbc893ff solid;
+    }
+
+.kontakt {
+    background-color: #ccd5aeff;
+    padding: 0 10% 30px;
+}
+
+.hlavicka {
+    background-image: url(obrazky/hlavicka.jpg);
+    padding: 100px 10%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+footer {
+    background-color: #0c0d07ff;
+    text-align: center;
+    padding: 10px 0;
+    color: #fef9d8ff;
+}
